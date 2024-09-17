@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class PizzariaApplication {
 
+	//metodo principal
 	public static void main(String[] args) {
 		SpringApplication.run(PizzariaApplication.class, args);
 	}
